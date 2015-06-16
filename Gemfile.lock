@@ -80,7 +80,7 @@ DEPENDENCIES
   ruboty-google_image (= 0.0.7)
   ruboty-redis (= 0.0.5)
   ruboty-slack (= 0.1.7)
-  ruboty-talk
+  ruboty-talk (= 0.0.5)
 
 BUNDLED WITH
    1.10.3
