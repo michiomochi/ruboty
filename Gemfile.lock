@@ -67,9 +67,9 @@ GEM
       redis
       redis-namespace
       ruboty
-    ruboty-slack (0.1.8)
+    ruboty-slack (0.1.10)
       ruboty (>= 1.0.4)
-      xrc (>= 0.1.7)
+      xrc (>= 0.1.8)
     ruboty-talk (0.0.5)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
@@ -87,7 +87,7 @@ GEM
     thread_safe (0.3.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    xrc (0.1.7)
+    xrc (0.1.8)
       activesupport
 
 PLATFORMS
@@ -102,7 +102,7 @@ DEPENDENCIES
   ruboty-echo (= 0.1.0)
   ruboty-google_image (= 0.0.7)
   ruboty-redis (= 0.0.5)
-  ruboty-slack (= 0.1.8)
+  ruboty-slack (= 0.1.10)
   ruboty-talk (= 0.0.5)
   ruboty-trello (= 0.1.3)
 
